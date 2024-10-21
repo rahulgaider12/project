@@ -1,0 +1,39 @@
+.project {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+table,th,td {
+    border: 1px solid #e7e7e7;
+}
+.color {
+    color: red;
+    display: flex;
+    flex-direction: row;
+}
+body nav {
+    background-color:pink;
+    height: 5vh;
+    text-align: center;
+    align-content: center;
+    
+}
+body nav a {
+    text-decoration: none;
+    color: black;
+    
+    
+}
+a {
+    border: 1px solid black;
+    margin-top: 30px;
+    align-content: center;
+    align-items: center;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
